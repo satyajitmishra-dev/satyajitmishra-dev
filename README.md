@@ -1,5 +1,6 @@
 # 🎗️ About Me:
-👨‍💻 Front-End Developer <br>🎯  HTML || CSS || JS <br>🍵 Java Developer || Data Structures || Algorithms || <br>🚀 Enthhusiastic Learner
+Pursuing CSE @Brainware University || Java || C || Python || HTML || CSS || Javascript || Web Developement || Data Structure || Algorithm || Tech Enthusiastic
+
 
 
 ## 🌐 Socials:
