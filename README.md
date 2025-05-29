@@ -1,6 +1,5 @@
 # 🎗️ About Me:
-Pursuing CSE @Brainware University || Java || C || Python || HTML || CSS || Javascript || Web Developement || Data Structure || Algorithm || Tech Enthusiastic
-
+## I’m Satyajit, a 2nd-year Computer Science Engineering student passionate about building impactful tech solutions.I specialize in front-end web development using HTML, CSS, JavaScript, and React, and have solid experience in C, C++, and Java.I enjoy solving real-world problems through code and have participated in hackathons 🚀, gaining, experience in teamwork and rapid prototyping.Currently, I’m expanding my skills in data structures, algorithms, and embedded systems 🔧.I love blending creativity with logic to build innovative applications and am always eager to learn and collaborate 🤝.
 
 
 ## 🌐 Socials:
