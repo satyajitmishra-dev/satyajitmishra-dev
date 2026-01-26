@@ -1,15 +1,105 @@
-# 🎗️ About Me:
-## I’m Satyajit, a 2nd-year Computer Science Engineering student passionate about building impactful tech solutions.I specialize in front-end web development using HTML, CSS, JavaScript, and React, and have solid experience in C, C++, and Java.I enjoy solving real-world problems through code and have participated in hackathons 🚀, gaining, experience in teamwork and rapid prototyping.Currently, I’m expanding my skills in data structures, algorithms, and embedded systems 🔧.I love blending creativity with logic to build innovative applications and am always eager to learn and collaborate 🤝.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=180&section=header&text=Satyajit%20Mishra&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+### 🚀 3rd Year CSE Student | Full-Stack Developer | Frontend Engineer (React)
+Building clean UI, scalable web apps, and impactful real-world products ⚡
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+real-world+products+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Tailwind+%F0%9F%94%A5;Node.js+%7C+Express+%7C+MongoDB+%F0%9F%9B%A0%EF%B8%8F;DSA+%7C+Core+CS+Fundamentals+%F0%9F%93%9A;Always+learning+%26+shipping+%F0%9F%94%A5" />
+
+</div>
+
+---
+
+## 🎯 About Me
+Hi, I’m **Satyajit Mishra** — a **3rd-year CSE student** and **Product-focused Developer**.  
+I build modern web applications using **React + JavaScript** with scalable backend APIs using **Node.js + Express**.  
+I enjoy solving real-world problems, improving through **DSA**, and shipping projects like **NetDrop** and **SpendWise**.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/satyajitmishra.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyajit_mishra1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyajitmishra1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/satyajitmishr0) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/satyajitmishra) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://satyajitmishra.me)
+[![SpendWise](https://img.shields.io/badge/SpendWise-111827?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8)](https://spendwise.satyajitmishra.me)
+[![NetDrop](https://img.shields.io/badge/NetDrop-0f172a?style=for-the-badge&logo=icloud&logoColor=38BDF8)](https://netdrop.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyajitmishra1)
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+---
 
+## 🚀 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✅ NetDrop — Instant File & Clipboard Sharing
+**Live:** https://netdrop.site  
+A fast, clean and user-friendly product for sharing files and clipboard across devices.  
+➡️ Built with a premium UI approach and smooth interactions.
+
+---
+
+### ✅ SpendWise — Personal Expense Tracker
+**Live:** https://spendwise.satyajitmishra.me  
+Track expenses with a clean dashboard, categories, and user-friendly experience.
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend / DB / Tools
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+
+### ☁️ Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=satyajitmishra-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=satyajitmishra-dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitmishra-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyajitmishra-dev&theme=react-dark)
+
+---
+
+## ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<div align="center">
+
+⭐ If you like my work, consider following — I’m always building & improving 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=footer" />
+
+</div>
