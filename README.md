@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=180&section=header&text=Satyajit%20Mishra&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### 🚀 3rd Year CSE Student | Full-Stack Developer | Frontend Engineer (React)
+### 🚀 4th Year CSE Student | Full-Stack Developer | Frontend Engineer (React)
 Building clean UI, scalable web apps, and impactful real-world products ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+real-world+products+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Tailwind+%F0%9F%94%A5;Node.js+%7C+Express+%7C+MongoDB+%F0%9F%9B%A0%EF%B8%8F;DSA+%7C+Core+CS+Fundamentals+%F0%9F%93%9A;Always+learning+%26+shipping+%F0%9F%94%A5" />
