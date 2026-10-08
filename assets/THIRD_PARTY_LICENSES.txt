@@ -1,0 +1,14 @@
+Third-party assets and licenses:
+
+1) Space Grotesk font
+- Package: @fontsource/space-grotesk
+- License: SIL Open Font License 1.1
+
+2) JetBrains Mono font
+- Package: @fontsource/jetbrains-mono
+- License: SIL Open Font License 1.1
+
+3) Simple Icons
+- Package: simple-icons
+- License: CC0-1.0
+- Source: https://github.com/simple-icons/simple-icons
